@@ -1,0 +1,26 @@
+{
+  "name": "as-product-shipping",
+  "version": "1.0.0",
+  "description": "A WooCommerce shipping plugin that provides both flat rate and weight-based shipping options for individual products.",
+  "main": "as-product-shipping.php",
+  "scripts": {
+    "build": "echo \"No build step required\"",
+    "test": "echo \"No test suite configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedShaikh0/as-product-shipping.git"
+  },
+  "keywords": [
+    "wordpress",
+    "woocommerce",
+    "shipping",
+    "plugin"
+  ],
+  "author": "Ahmed Shaikh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ahmedShaikh0/as-product-shipping/issues"
+  },
+  "homepage": "https://github.com/ahmedShaikh0/as-product-shipping#readme"
+}
